@@ -1,4 +1,3 @@
-- 👋 Hi, @4be here
 - 🌱 I’m currently learning backend using (springboot || nodeJs)
 
 <!---
