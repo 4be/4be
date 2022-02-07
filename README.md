@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning backend using (springboot || nodeJs)
+- 🌱 I’m currently learning backend using (springboot || express)
 
 <!---
 4be/4be is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
